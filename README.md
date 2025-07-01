@@ -9,12 +9,13 @@ Utilizing Node, Express, and Pug, this project creates a portfolio website that 
 ## Extras
 - In the terminal, use `npm start` to initialize the app.  
 - Customized link colors with Dodger Blue (#1e90ff) and smooth color transitions on hover to OrangeRed (#ff4500).  
-- Portfolio intro section styled with a dark blue gradient background, light text, rounded corners, and subtle box shadow for emphasis.  
+- Portfolio intro section styled with a light blue gradient background, dark text, rounded corners, and subtle box shadow for emphasis.  
 - Headings (h1, h2, h3) made bold with letter spacing for a modern, clean look.  
 - Paragraphs use Lato font with adjusted weight and letter spacing for readability.  
 - Project thumbnails have Dodger Blue tinted box shadows with smooth shadow transitions on hover for subtle depth effect.  
 - Buttons have smooth background and text color transitions with a bright blue hover effect for interactivity.  
 - Added a personal logo in the sidebar thumbnail area to enhance branding and identity.
+
 
 
 ***
