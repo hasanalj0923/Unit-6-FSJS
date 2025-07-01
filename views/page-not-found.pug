@@ -1,0 +1,15 @@
+extends layout.pug
+
+block content
+
+  - const { message = 'Not Found', statusCode = 404 } = err || {};
+
+  nav.nav
+    a(href='/')
+      span &larr;
+      |  Back
+
+  article.portfolio-error
+    img(src='/images/errors/sad.png' alt='Page not found')
+    h1 #{statusCode} - #{message}
+    p The page you are looking for doesn't exist or has been moved.

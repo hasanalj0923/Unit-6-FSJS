@@ -1,0 +1,18 @@
+extends layout.pug
+
+block content
+
+  - const { message = 'Error occurred', statusCode = 500 } = err || {};
+
+  nav.nav
+    a(href='/')
+      span &larr;
+      |  Back
+
+  article.portfolio-error
+    img(src='/images/errors/warning.jpg' alt='Warning')
+    h1 #{statusCode} - #{message}
+    if statusCode === 500
+      p The server encountered an internal error or misconfiguration and was unable to complete your request.
+    else
+      p Please check the URL or try again later.
