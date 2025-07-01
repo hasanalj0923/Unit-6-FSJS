@@ -1,0 +1,65 @@
+{
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "Random Quote Generator",
+        "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://hasanalj0923.github.io/Unit-1-FSJS/",
+        "github_link": "https://github.com/hasanalj0923/Unit-1-FSJS",
+        "image_urls": [
+          "/images/projects/project1-550x550.jpg",
+          "/images/projects/project1-1200x550.jpg"
+        ]
+      },
+      {
+        "id": 1,
+        "project_name": "Data Pagination and Filtering",
+        "description": "A program that displays employees with the ability to filter the employees via the 'pages' at the bottom. Users can also type in the search box and filter through all results via the 'pages' at the bottom.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://hasanalj0923.github.io/Unit-2-FSJS/",
+        "github_link": "https://github.com/hasanalj0923/Unit-2-FSJS",
+        "image_urls": [
+          "/images/projects/project2-550x550.jpg",
+          "/images/projects/project2-1200x550.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "A form with interactivity and form validation. When the user selects certain options, other options will appear or be greyed out. The form is validated before submission.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://hasanalj0923.github.io/Unit-3-FSJS/",
+        "github_link": "https://github.com/hasanalj0923/Unit-3-FSJS",
+        "image_urls": [
+          "/images/projects/project3-550x550.jpg",
+          "/images/projects/project3-1200x550.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "project_name": "OOP Game Show App",
+        "description": "An object oriented Game Show App. The user starts a new game and tries to guess the phrase. You can either click the letters on the screen or type them on your keyboard. If you cannot guess the phrase within 5 tries, the game will end.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://hasanalj0923.github.io/Unit-4-FSJS/",
+        "github_link": "https://github.com/hasanalj0923/Unit-4-FSJS",
+        "image_urls": [
+          "/images/projects/project4-550x550.jpg",
+          "/images/projects/project4-1200x550.jpg"
+        ]
+      },
+      {
+        "id": 4,
+        "project_name": "Public API Requests",
+        "description": "A program that fetches and displays 12 random employees from the randomuser.me api. When clicking on the individual employee a modal window will appear. You can also search for employees.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://hasanalj0923.github.io/Unit-5-FSJS/",
+        "github_link": "https://github.com/hasanalj0923/Unit-5-FSJS",
+        "image_urls": [
+          "/images/projects/project5-550x550.jpg",
+          "/images/projects/project5-1200x550.jpg"
+        ]
+      }
+    ]
+  }
+  
